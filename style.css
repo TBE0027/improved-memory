@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@media only screen and (min-width:400px) and (max-width:670px){
+
+html{
+    background-color: rgb(247, 247, 247);
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+}
+
+.finalizarCompra{
+    padding-left: 5vw;
+}
+
+.divInformaçõesMaior{
+    padding-left: 5vw;
+
+}
+
+.divInformações{
+    width: 64%;
+    background-color: rgb(255, 255, 255);
+    padding-left: 10vw;
+    display: flex;
+    flex-flow: column;
+    align-items: start;
+}
+
+.divInformações input{
+    padding-left: 15vw;
+    font-size: larger;
+    width: 60%;
+    height: 70px;
+    background-color: rgb(247, 247, 247);
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.informaçõesEntrega{
+    padding-left: 5vw;
+}
+
+.divEntrega{
+    width: 64%;
+    background-color: rgb(255, 255, 255);
+    padding-left: 10vw;
+    display: flex;
+    flex-flow: column;
+    align-items: start;
+}
+
+.divEntrega input{
+    padding-left: 13vw;
+    font-size: larger;
+    width: 60%;
+    height: 70px;
+    background-color: rgb(247, 247, 247);
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.divEntrega hr{
+    position:
+}
+
+}
